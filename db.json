@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "George",
+      "age": 36,
+      "companyId": "2"
+    },
+    {
+      "id": "40",
+      "firstName": "Cosmo",
+      "age": 41,
+      "companyId": "1"
+    },
+    {
+      "id": "41",
+      "firstName": "Jerry",
+      "age": 37,
+      "companyId": "2"
+    },
+    {
+      "id": "2",
+      "firstName": "Elaine",
+      "age": 35,
+      "companyId": "3"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Kramerica Industries",
+      "description": "Global Inovations"
+    },
+    {
+      "id": "2",
+      "name": "Vandelay Industries",
+      "description": "Latex importation and exportation"
+    },
+    {
+      "id": "3",
+      "name": "Pendant Publishing",
+      "description": "Publishes mostly coffee table books about coffee tables"
+    }
+  ]
+}
